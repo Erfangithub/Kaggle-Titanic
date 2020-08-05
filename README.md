@@ -16,7 +16,8 @@ and look for general patterns or (engineered) features/categories that have a su
 - In the second notebook (Titanic_main.ipynb) using varias pipelines we preprocess the data for machine learning based on the
 patterns identified in the first notebook and train different machine learning models like Random Forests, Support Vector Machines,
 Logistic Regression, Gradient Boosting Regressor, etc. We will see that the Support Vector Classifier produces the best prediction score.
-- The final prediciton score obtained using the above steps is 79.425% which puts the submission in the top 10% on the public leaderboard.
+- The final prediciton score obtained using the above steps is 79.425% which puts the submission in the top 10% on the public leaderboard. These
+predictions are stored in the submissionsvc.csv file in the repository.
 ## 2. Installation
 - #### Requirements to run this project
   - Python 3 and Jupyter notebook need to be installed before running this project.
