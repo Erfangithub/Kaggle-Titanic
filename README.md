@@ -29,5 +29,5 @@ predictions are stored in the submissionsvc.csv file in the repository.
   - You can install these libraries by running the following in a terminal application: pip install -r requirements.txt
 - #### Download the data
   - Download the zip file containing this repository.
-  - Unzip the file and get into the folder named: Kaggle_Titanic-master , via a terminal application.
+  - Unzip the file and get into the folder named: Kaggle-Titanic-master , via a terminal application.
   - Launch a Jupyter notebook and run the notebooks related to this project!
